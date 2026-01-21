@@ -1,4 +1,4 @@
-**Automated Lead Qualification & Routing System**
+# **Automated Lead Qualification & Routing System**
 
 An end-to-end automation that captures, validates, scores, and routes inbound leads in real time.
 The system automatically prioritizes high-intent leads based on budget and team size, updates the CRM, and triggers tailored follow-ups and internal alerts.
