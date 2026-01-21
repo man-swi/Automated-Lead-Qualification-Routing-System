@@ -67,6 +67,10 @@ The system acts as a decision layer between the web form and the CRM, ensuring t
 
 ---
 
+<img width="329" height="706" alt="Image" src="https://github.com/user-attachments/assets/96f1e9af-5eed-47c0-9ebc-5c48a093ee4b" />
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2acd9172-3638-4b44-91e6-aea43fa97120" />
+
 ## **Tech Stack**
 
 - **n8n** — Core automation and workflow orchestration
